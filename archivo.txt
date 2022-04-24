@@ -1,2 +1,1 @@
-asaaaaa
-asss
+archivo.txt
